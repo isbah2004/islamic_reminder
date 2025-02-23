@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "716530752125",
+    "project_id": "exam-app-dfbb9",
+    "storage_bucket": "exam-app-dfbb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716530752125:android:f3c623d47f9bfbc9fc2f14",
+        "android_client_info": {
+          "package_name": "com.syedi.azanreminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716530752125-lcbcg1n5gvd99sd1b5d4a7r1pc08ngmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFCDKG9szBe5s1XIqJpTVJ4wQx6Y103Uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716530752125-lcbcg1n5gvd99sd1b5d4a7r1pc08ngmb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "716530752125-j1nq4etc40v15lld0hijcq07m7i7vvdu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.modelTutorial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
