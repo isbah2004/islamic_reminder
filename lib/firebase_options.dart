@@ -49,22 +49,7 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAFCDKG9szBe5s1XIqJpTVJ4wQx6Y103Uo',
-    appId: '1:716530752125:android:f3c623d47f9bfbc9fc2f14',
-    messagingSenderId: '716530752125',
-    projectId: 'exam-app-dfbb9',
-    storageBucket: 'exam-app-dfbb9.appspot.com',
-  );
+  static const FirebaseOptions android = FirebaseOptions();
 
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyD0x5vpGvOyJwF4EIrUd6G7y8Zyph-gW-g',
-    appId: '1:716530752125:ios:6c70f1e924d924bdfc2f14',
-    messagingSenderId: '716530752125',
-    projectId: 'exam-app-dfbb9',
-    storageBucket: 'exam-app-dfbb9.appspot.com',
-    androidClientId: '716530752125-cgmtelqnkgh418v6aefut5o60g3m4rks.apps.googleusercontent.com',
-    iosClientId: '716530752125-76pljo5h5cq0etu1bdmu7i6eufb9daus.apps.googleusercontent.com',
-    iosBundleId: 'com.syedi.azanreminder',
-  );
+  static const FirebaseOptions ios = FirebaseOptions();
 }
